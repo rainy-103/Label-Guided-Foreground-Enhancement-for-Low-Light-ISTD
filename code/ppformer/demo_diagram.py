@@ -14,7 +14,7 @@ except ImportError:
 
 import cv2  # 用固定伪彩 LUT
 
-from model.UKNet import UKNet  # 需要 UKNet 中已实现 forward_diagram()（我们之前给过）
+from model.UKNet import UKNet  
 
 DEFAULT_CKPT = "checkpoints/LOL2/net_g_BEST_PSNR_26.27_SSIM_0.95.pth"
 
