@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from torch.utils.data import Dataset
 
-# ✅ 自定义数据集
+
 class InfraredDataset(Dataset):
     def __init__(self, dataset_path, image_size=(256, 256)):
         self.image_dir = os.path.join(dataset_path, "SIRSTdevkit", "PNGImages")
