@@ -1,0 +1,1 @@
+python densesirstmaster_test.py --data_root dataset/IRSTD-1k --split test.txt
