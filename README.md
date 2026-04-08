@@ -1,4 +1,4 @@
-# Label-Guided Foreground Enhancement for Low-Light IRTD
+# Label-Guided Foreground Enhancement for Low-Light ISRTD
 
 Label-Guided Foreground Enhancement for Low-Light Infrared Small Target Detection is a low-light infrared small target detection framework proposed by Dr. Wenjun Zhou and his collaborators. This repository contains the PyTorch implementation of the method from the paper **"Label-Guided Foreground Enhancement for Low-Light Infrared Small Target Detection"**.
 
