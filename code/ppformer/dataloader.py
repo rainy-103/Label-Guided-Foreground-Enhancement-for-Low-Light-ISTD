@@ -37,7 +37,7 @@
 #         gt   = self.to_tensor(gt)
 #         mask = (self.to_tensor(mask) > 0).float()
 
-#         return low, gt, mask, f"{name}_pixels0"  # ✅ 传出完整文件名
+#         return low, gt, mask, f"{name}_pixels0"  # 
 import os
 from PIL import Image
 import torch
